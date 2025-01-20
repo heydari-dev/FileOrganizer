@@ -36,6 +36,11 @@ To use `FileOrganizer`, make sure you have Python installed on your machine.
 2. Enter the directory path where the files are located.
 3. The script will organize the files based on their extensions into newly created folders.
 
+## Requirements
+
+- Python 3.x
+- No additional libraries required (uses built-in Python libraries).
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
